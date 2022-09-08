@@ -22,9 +22,9 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp  
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 
-<br/>
-</p>
 
+</p>
+<br/>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
